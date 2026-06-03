@@ -19,15 +19,16 @@ The mod currently supports:
 * Español (México) - thanks to [frankh93](https://github.com/frankh93)
 * Русский (Россия) - thanks to [VitalityV1nT](https://github.com/VitalityV1nT)
 * Turkish (Turkiye) - thanks to [bcrtvkcs](https://github.com/bcrtvkcs)
+* Japanese (Japan) - thanks to [haru612](https://github.com/haru612)
 
 #### How to Submit Changes
 If you find a mistake or want to bring the mod to your native language, please follow these steps:
 
 1. **Fork** this repository to your own GitHub account.
-2. **Sync your Fork:** If you forked this repo a while ago, your version might be out-of-date.
+2. **Sync your Fork:** If you forked this repo a while ago, your version might be out-of-date (otherwise, you can skip this step).
    * Navigate to your fork on GitHub.
    * If you see a message saying "This branch is behind...", click **Sync fork** and then **Update branch** to ensure you are working on the latest version.
-3. **Create/Update** the file in your fork. New files should follow the format: `(Language)-(Region).md` (e.g., `Portuguese (Brazil).md`).
+3. **Create** the file or **Update** `EDIT THIS.md` in your fork. New files should follow the format: `(Language)-(Region).md` (e.g., `Portuguese (Brazil).md`).
 4. **Commit** your changes with a clear, descriptive message (e.g., "Add/Fix Brazilian Portuguese translation").
 5. **Open a Pull Request** to merge your changes back into this main repository.
    * Navigate to the **Pull Requests** tab of the original repository.
