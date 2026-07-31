@@ -20,6 +20,7 @@ The mod currently supports:
 * Русский (Россия) - thanks to [VitalityV1nT](https://github.com/VitalityV1nT)
 * Turkish (Turkiye) - thanks to [bcrtvkcs](https://github.com/bcrtvkcs)
 * Japanese (Japan) - thanks to [haru612](https://github.com/haru612)
+* Polski (Poland) - thanks to [FadeMind](https://github.com/FadeMind)
 
 #### How to Submit Changes / New Language support
 If you find a mistake or want to bring the mod to your native language, please follow these steps:
