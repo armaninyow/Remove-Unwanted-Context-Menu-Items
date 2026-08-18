@@ -4,6 +4,7 @@
 * `Scan with Microsoft Defender...`: Analyser avec Microsoft Defender...
 * `Create with Designer`: Créer avec Designer
 * `Edit with Clipchamp`: Modifier avec Clipchamp
+* `Ask Microsoft 365 Copilot`: Demander à Microsoft 365 Copilot
 
 ### Basic Items
 * `Open`: Ouvrir
