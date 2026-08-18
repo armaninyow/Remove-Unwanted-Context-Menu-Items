@@ -26,9 +26,9 @@
 * `Copy as path`: Copier comme chemin
 * `Customize this folder...`: Personnaliser ce dossier...
 * `Add to Favorites`: Ajouter aux favoris
-* `Pin to Start`: Épingler à l'écran de démarrage
+* `Pin to Start`: Épingler au menu Démarrer
 * `Cast to Device`: Diffuser vers un appareil
-* `Give access to`: Donner accès à
+* `Give access to`: Donner l'accès à
 * `Restore previous versions`: Restaurer les versions précédentes
 * `Include in library`: Inclure dans la bibliothèque
 * `Rotate right`: Faire pivoter vers la droite
@@ -47,8 +47,8 @@
 
 ### App-Specific Items
 * `Send with Quick Share`: Envoyer avec Quick Share
-* `Add to VLC media player's Playlist`: Ajouter à la liste de lecture de VLC media player
-* `Play with VLC media player`: Lire avec VLC media player
+* `Add to VLC media player's Playlist`: Ajouter à la liste de lecture de VLC
+* `Play with VLC media player`: Lire avec VLC
 * `Add to Media Player play queue`: Ajouter à la file d'attente de Media Player
 * `Play with Media Player`: Lire avec Media Player
 * `Edit in Notepad`: Modifier dans le Bloc-notes
